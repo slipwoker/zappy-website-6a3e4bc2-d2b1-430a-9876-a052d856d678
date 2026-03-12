@@ -1,6 +1,4 @@
-# COBE — Generative Engine Optimization Map
-
-> An interactive educational platform featuring a dual-interface system where teachers upload video content with accompanying questions, students watch and respond via audio recordings, and teachers provide personalized grades and feedback in a seamless learning loop. The platform emphasizes multimedia engagement and streamlined communication between educators and learners.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About COBE
-An interactive educational platform featuring a dual-interface system where teachers upload video content with accompanying questions, students watch and respond via audio recordings, and teachers provide personalized grades and feedback in a seamless learning loop. The platform emphasizes multimedia engagement and streamlined communication between educators and learners.
-
-## Target Audience
-teachers and pupils
-
-## Industry
-education technology
-
+## About Business
 ---
 
 # Additional Resources
