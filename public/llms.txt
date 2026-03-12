@@ -1,0 +1,57 @@
+# COBE — Generative Engine Optimization Map
+
+> An interactive educational platform featuring a dual-interface system where teachers upload video content with accompanying questions, students watch and respond via audio recordings, and teachers provide personalized grades and feedback in a seamless learning loop. The platform emphasizes multimedia engagement and streamlined communication between educators and learners.
+
+---
+
+## Pages
+
+### Home
+https://cobe-6a3e4bc2.zappy5.app
+COBE brings teachers and pupils together through interactive video lessons, audio responses, and personalized feedback. Start your free online learning platform journey today.
+
+### For Teachers
+https://cobe-6a3e4bc2.zappy5.app/teachers
+Empower your teaching with COBE&#39;s free online platform. Upload video content, add questions, review student audio responses, and provide grades effortlessly.
+
+### For Students
+https://cobe-6a3e4bc2.zappy5.app/students
+Experience engaging education on COBE&#39;s free online learning platform. Watch teacher videos, record audio answers, and receive personalized feedback instantly.
+
+### Contact
+https://cobe-6a3e4bc2.zappy5.app/contact
+Ready to transform your classroom experience? Contact COBE to learn how our free online teaching platform connects educators and learners through multimedia engagement.
+
+## Legal & Policy
+
+### Privacy Policy
+https://cobe-6a3e4bc2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://cobe-6a3e4bc2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://cobe-6a3e4bc2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About COBE
+An interactive educational platform featuring a dual-interface system where teachers upload video content with accompanying questions, students watch and respond via audio recordings, and teachers provide personalized grades and feedback in a seamless learning loop. The platform emphasizes multimedia engagement and streamlined communication between educators and learners.
+
+## Target Audience
+teachers and pupils
+
+## Industry
+education technology
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://cobe-6a3e4bc2.zappy5.app/sitemap.xml
+- **Robots.txt**: https://cobe-6a3e4bc2.zappy5.app/robots.txt
