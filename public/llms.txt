@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# COBE — Generative Engine Optimization Map
+
+> An interactive educational platform featuring a dual-interface system where teachers upload video content with accompanying questions, students watch and respond via audio recordings, and teachers provide personalized grades and feedback in a seamless learning loop. The platform emphasizes multimedia engagement and streamlined communication between educators and learners.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://cobe.zappy5.app
 COBE brings teachers and pupils together through interactive video lessons, audio responses, and personalized feedback. Start your free online learning platform journey today.
 
 ### For Teachers
-https://example.com/teachers
+https://cobe.zappy5.app/teachers
 Empower your teaching with COBE&#39;s free online platform. Upload video content, add questions, review student audio responses, and provide grades effortlessly.
 
 ### For Students
-https://example.com/students
+https://cobe.zappy5.app/students
 Experience engaging education on COBE&#39;s free online learning platform. Watch teacher videos, record audio answers, and receive personalized feedback instantly.
 
 ### Contact
-https://example.com/contact
+https://cobe.zappy5.app/contact
 Ready to transform your classroom experience? Contact COBE to learn how our free online teaching platform connects educators and learners through multimedia engagement.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://cobe.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://cobe.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://cobe.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About COBE
+An interactive educational platform featuring a dual-interface system where teachers upload video content with accompanying questions, students watch and respond via audio recordings, and teachers provide personalized grades and feedback in a seamless learning loop. The platform emphasizes multimedia engagement and streamlined communication between educators and learners.
+
+## Target Audience
+teachers and pupils
+
+## Industry
+education technology
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://cobe.zappy5.app/sitemap.xml
+- **Robots.txt**: https://cobe.zappy5.app/robots.txt
